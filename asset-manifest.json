@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anton-shop/static/css/main.8cd94cef.chunk.css",
+    "main.js": "/anton-shop/static/js/main.552d5cb4.chunk.js",
+    "main.js.map": "/anton-shop/static/js/main.552d5cb4.chunk.js.map",
+    "runtime-main.js": "/anton-shop/static/js/runtime-main.edd705ae.js",
+    "runtime-main.js.map": "/anton-shop/static/js/runtime-main.edd705ae.js.map",
+    "static/js/2.a1659982.chunk.js": "/anton-shop/static/js/2.a1659982.chunk.js",
+    "static/js/2.a1659982.chunk.js.map": "/anton-shop/static/js/2.a1659982.chunk.js.map",
+    "index.html": "/anton-shop/index.html",
+    "static/css/main.8cd94cef.chunk.css.map": "/anton-shop/static/css/main.8cd94cef.chunk.css.map",
+    "static/js/2.a1659982.chunk.js.LICENSE.txt": "/anton-shop/static/js/2.a1659982.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edd705ae.js",
+    "static/js/2.a1659982.chunk.js",
+    "static/css/main.8cd94cef.chunk.css",
+    "static/js/main.552d5cb4.chunk.js"
+  ]
+}
